@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Inventory App 1</string>
+
+    <!-- Label for overflow menu option that inserts fake inventory element data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all inventory data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Data</string>
+
+    <!-- Title for the activity to add a new inventory element [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_element">Add an Element</string>
+
+    <!-- Label for editor menu option to save inventory element and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current inventory element [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+
+    // TODO review Product Name, Price, Quantity, Supplier Name, and Supplier Phone Number.
+    <!-- Label for gender information in the editor [CHAR LIMIT=30] -->
+    <string name="category_product_name">Product Name</string>
+
+    <!-- Label for dropdown menu option if the product's name is Cafe Nevado [CHAR LIMIT=20] -->
+    <string name="cafe_nevado">Cafe Nevado</string>
+
+    <!-- Label for dropdown menu option if the product's name is Cafe Tolima [CHAR LIMIT=20] -->
+    <string name="cafe_tolima">Cafe Tolima</string>
+
+    <!-- Label for dropdown menu option if the product's name is Cafe Caldas [CHAR LIMIT=20] -->
+    <string name="cafe_caldas">Cafe Caldas </string>
+
+
+    <!-- Label for Price information in the editor [CHAR LIMIT=30] -->
+    <string name="category_price">Price</string>
+
+    <!-- Text hint for Price field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_price">Price</string>
+
+
+    <!-- Label for Quantity information in the editor [CHAR LIMIT=30] -->
+    <string name="category_quantity">Quantity</string>
+
+    <!-- Text hint for Quantity field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_quantity">Price</string>
+
+
+    <!-- Label for Supplier Name information in the editor [CHAR LIMIT=30] -->
+    <string name="category_supplier_name">Supplier Name</string>
+
+    <!-- Text hint for Supplier Name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_supplier_name">Price</string>
+
+
+    <!-- Label for Supplier Phone information in the editor [CHAR LIMIT=30] -->
+    <string name="category_supplier_phone">Supplier Phone</string>
+
+    <!-- Text hint for Supplier Phone field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_supplier_phone">Price</string>
+
+</resources>

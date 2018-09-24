@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- These are the options displayed in the Product Name drop-down Spinner -->
+    <string-array name="array_product_options">
+        <item>@string/cafe_nevado</item>
+        <item>@string/cafe_tolima</item>
+        <item>@string/cafe_caldas</item>
+    </string-array>
+</resources>
